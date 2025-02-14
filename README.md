@@ -1,1 +1,4 @@
-# weather_data_prediction_analysis
+# Weather data prediction and analysis
+## WIP
+
+data source: https://meteostat.net/de/
